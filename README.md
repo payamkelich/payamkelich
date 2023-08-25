@@ -2,7 +2,11 @@
 
 <img align="right" style="width: 200px;" src="./welcome.png" />
  
-Machine Learning and Molecular Dynamic Simulation of Bio-Molecular and Polymeric Systems.
+# 🍔 Cooking Up Molecular Insights with Machine Learning, Dynamics, & Docking!
+
+Welcome to the molecular kitchen, where we don't just pair wine with cheese, but also molecules with their perfect partners (that's what we call "docking" 🥣)! Using a sprinkle of machine learning 🤖 and a dash of molecular dynamic simulations, we unravel the recipes of bio-molecular and polymeric systems.
+
+Hungry for knowledge? Join our gourmet journey through the molecular menu! 🍕🍰
 
 Checkout my website for a list of all [publications :books:](https://payamkelich.github.io/publications.html), or my[Google Scholar :mortar_board:](https://scholar.google.com/citations?user=JyGB2-MAAAAJ&hl=en)
 
