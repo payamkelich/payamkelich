@@ -4,7 +4,7 @@
  
 # 🍔 Cooking Up Molecular Insights with Machine Learning, Dynamics, & Docking!
 
-Welcome to the molecular kitchen, where we don't just pair wine with cheese, but also molecules with their perfect partners (that's what we call "docking" 🥣)! Using a sprinkle of machine learning 🤖 and a dash of molecular dynamic simulations, we unravel the recipes of bio-molecular and polymeric systems.
+Welcome to the molecular kitchen, where we don't just pair wine with cheese, but also molecules with their perfect partners! Using a sprinkle of machine learning 🤖 and a dash of molecular dynamic simulations, we unravel the recipes of bio-molecular and polymeric systems.
 
 Hungry for knowledge? Join our gourmet journey through the molecular menu! 🍕🍰
 
