@@ -1,5 +1,10 @@
 # Welcome  👋
 
+<img align="right" style="width: 200px;" src="./welcome.png" />
+ 
+Machine Learning and Molecular Dynamic Simulation of Bio-Molecular and Polymeric Systems.
+
+Checkout my website for a list of all [publications :books:](https://payamkelich.github.io), or my Google Scholar.[publications :books:](https://scholar.google.com/citations?user=JyGB2-MAAAAJ&hl=en)
 
 
 <!--
