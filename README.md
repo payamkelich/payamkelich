@@ -8,7 +8,7 @@ Welcome to the molecular kitchen, where we don't just pair wine with cheese, but
 
 Hungry for knowledge? Join our gourmet journey through the molecular menu! 🍕🍰
 
-Checkout my website for a list of all [publications :books:](https://payamkelich.github.io/publications.html), or my[Google Scholar :mortar_board:](https://scholar.google.com/citations?user=JyGB2-MAAAAJ&hl=en)
+Checkout my website for a list of menu [publications :books:](https://payamkelich.github.io/publications.html), or my[Google Scholar :mortar_board:](https://scholar.google.com/citations?user=JyGB2-MAAAAJ&hl=en)
 
 
 <!--
